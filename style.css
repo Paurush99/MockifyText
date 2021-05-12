@@ -1,0 +1,28 @@
+body{
+    background-color: orange;
+    text-align: center;
+    color: white;
+
+}
+
+.container{
+    padding: 5%;
+    text-align: left;
+    background-color:black;
+    display: block;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.buttonBox{
+    display: inline-block;
+    background-color: grey;
+    border-radius: 5px;
+}
+
+.inputBox{
+
+    display: block;
+    border-radius: 25px;
+
+}
