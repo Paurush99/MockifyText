@@ -1,0 +1,2 @@
+# MockifyText
+Emoji Copypasta
